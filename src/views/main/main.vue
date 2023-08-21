@@ -1,5 +1,6 @@
 <template>
     <div>main</div>
+    <div>1</div>
 </template>
 
 <script lang="ts">
